@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/algebra-chat/static/css/main.fc284b4a.css",
+    "main.js": "/algebra-chat/static/js/main.bb995c14.js",
+    "index.html": "/algebra-chat/index.html",
+    "main.fc284b4a.css.map": "/algebra-chat/static/css/main.fc284b4a.css.map",
+    "main.bb995c14.js.map": "/algebra-chat/static/js/main.bb995c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc284b4a.css",
+    "static/js/main.bb995c14.js"
+  ]
+}
